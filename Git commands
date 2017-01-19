@@ -1,0 +1,5 @@
+cvet1:~/workspace (master) $ ls
+cvet1:~/workspace (master) $ git add .
+cvet1:~/workspace (master) $ git status
+cvet1:~/workspace (master) $ git commit -m 'initial file commit'
+cvet1:~/workspace (master) $ git push origin master
